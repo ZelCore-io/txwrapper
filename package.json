@@ -27,7 +27,7 @@
     "memoizee": "^0.4.14"
   },
   "devDependencies": {
-    "@substrate/dev": "^0.5.2",
+    "@substrate/dev": "^0.6.3",
     "@types/memoizee": "^0.4.3",
     "rimraf": "^3.0.2",
     "standard-version": "^9.1.1",
